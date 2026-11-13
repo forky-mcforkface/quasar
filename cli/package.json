@@ -53,7 +53,7 @@
   },
   "dependencies": {
     "@clack/prompts": "^1.8.1",
-    "@hono/node-server": "^2.1.0",
+    "@hono/node-server": "^2.1.6",
     "@quasar/art": "workspace:^",
     "@quasar/ssl-certificate": "workspace:^",
     "@quasar/update-notifier": "workspace:^",
